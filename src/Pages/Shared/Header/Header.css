@@ -1,0 +1,23 @@
+#navbarNav li{
+    display: flex;
+    justify-content: space-between;
+    align-items:end;
+    margin-right: 15px;
+}
+
+.header-text {
+    margin-right:20px;
+    font-size:22px;
+    font-weight:700;
+    
+}
+
+.nav-item-style{
+    text-decoration: none;
+
+}
+.profile-pic{
+    width: 2.5rem;
+    border-radius: 50%;
+}
+
