@@ -3,7 +3,7 @@ import Header from '../Shared/Header/Header';
 
 const BookingForm = () => {
     return (
-        <div className=' d-flex flex-wrap justify-content-center my-5 '>
+        <div className=' d-flex flex-wrap justify-content-center my-5 w-100'>
             <Header></Header>
 
             <div>

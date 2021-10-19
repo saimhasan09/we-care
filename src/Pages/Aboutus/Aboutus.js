@@ -5,7 +5,7 @@ import Footer from '../Footer/Footer';
 const Aboutus = () => {
     return (
 
-        <div>
+        <div className="w-100">
             <Header></Header>
 
             <div className="container row ms-2 w-100 container d-flex flex-wrap justify-content-center align-items-center">

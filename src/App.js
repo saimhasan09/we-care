@@ -17,7 +17,7 @@ import Ourteam from './Pages/OurTeam/Ourteam';
 
 function App() {
   return (
-    <div className="App">
+    <div className="App w-100">
       <AuthProvider>
         <Router>
 

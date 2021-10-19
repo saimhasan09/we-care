@@ -4,7 +4,7 @@ import Header from '../Shared/Header/Header';
 
 const Contact = () => {
     return (
-        <div>
+        <div className="w-100">
             <Header></Header>
 
 

@@ -15,7 +15,7 @@ const Details = () => {
     }, []);
 
     return (
-        <div>
+        <div className='w-100'>
             {
                 diseases.filter(disease => disease.id == serviceId).map(a => <div className="  text-center ">
                     <div className='details-container'>
