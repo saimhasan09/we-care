@@ -22,9 +22,9 @@ const Details = () => {
                         <img src={a.img} alt="" className='service-container' />
                         <h4>{a.name}</h4>
                         <p>{a.description}</p>
-                        <Link to='/doctors'>
-                            <button className='btn btn-outline-success'>Contact with doctor</button>
-                        </Link>
+
+                        <button className='btn btn-outline-success'>Contact with doctor</button>
+
                     </div>
                 </div>)
             }
